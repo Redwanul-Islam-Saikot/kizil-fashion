@@ -1,0 +1,1 @@
+import{D as e,t}from"./jsx-runtime-wpdN8rMc.js";var n=t();function r(){return(0,n.jsx)(`h1`,{children:`Hello`})}function i({}){return[{title:`Kizil Fashion`},{name:`description`,content:`Welcome to Kizil Fashion!`}]}var a=e(function(){return(0,n.jsx)(r,{})});export{a as default,i as meta};
